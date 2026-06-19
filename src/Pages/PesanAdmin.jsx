@@ -1,6 +1,6 @@
-import PesanAdmin from "../components/Admin/PesanAdmin"
+import PesanAdmin from "../Components/Admin/PesanAdmin"
 import Footer from "../Components/Footer"
-import NavbarAdmin from "../components/Navbar/NavbarAdmin"
+import NavbarAdmin from "../Components/Navbar/NavbarAdmin"
 import VideoBackground from "../Components/VideoBackground"
 
 

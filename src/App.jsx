@@ -2,7 +2,7 @@ import { BrowserRouter, Routes, Route } from "react-router-dom";
 import { ToastContainer } from "react-toastify";
 
 import "react-toastify/dist/ReactToastify.css";
-import Cover from "./Components/Cover/Cover";
+
 import Home from "./Pages/Home";
 import Adminpage from "./Pages/AdminPage";
 import PesanAdminPage from "./Pages/PesanAdmin";

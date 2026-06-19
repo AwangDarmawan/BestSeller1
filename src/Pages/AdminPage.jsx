@@ -1,6 +1,6 @@
-import Admin from "../components/Admin/Admin"
+import Admin from "../Components/Admin/Admin"
 import Footer from "../Components/Footer"
-import NavbarAdmin from "../components/Navbar/NavbarAdmin"
+import NavbarAdmin from "../Components/Navbar/NavbarAdmin"
 
 import VideoBackground from "../Components/VideoBackground"
 function AdminPage() {
