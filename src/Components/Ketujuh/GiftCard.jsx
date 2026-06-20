@@ -1,12 +1,13 @@
 import { FaCopy, FaUniversity } from "react-icons/fa";
+import { toast } from "react-toastify";
 
 export default function GiftCard({ bank, number, name, color }) {
   const copyNumber = async () => {
     try {
       await navigator.clipboard.writeText(number);
-      alert("Nomor rekening berhasil disalin.");
+      toast.success("No Rekening berhasil di Salin")
     } catch {
-      alert("Gagal menyalin nomor rekening.");
+     toast.error("Gagal salin NoREK");
     }
   };
 

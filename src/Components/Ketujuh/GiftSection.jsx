@@ -4,7 +4,7 @@ import DataGift from "./DataGift";
 
 export default function GiftSection() {
   return (
-    <section className="relative z-10 px-5 py-24">
+    <section id="gift" className="relative z-10 px-5 py-24">
       <div className="mx-auto max-w-6xl lg:mx-[470px]">
         <div
           data-aos="fade-up"

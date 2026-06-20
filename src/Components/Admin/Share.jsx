@@ -14,9 +14,9 @@ export const generateShareText = (name, invitationLink) =>
       `Berikut link undangan kami, untuk info lengkap dari acara, bisa kunjungi: ${invitationLink}\n\n` +
       `Merupakan suatu kebahagiaan bagi kami apabila Bapak/Ibu/Saudara/i berkenan untuk hadir dan memberikan doa restu.\n\n` +
       `Acara akan diselenggarakan pada:\n` +
-      `🗓️ Hari/Tanggal : Minggu, 05 Juli 2026\n` +
+      `🗓️ Hari/Tanggal : Minggu, 20 Agustus 2026\n` +
       `⏰ Waktu        : 08.00 WIB – selesai\n` +
-      `📍 Tempat       : Kp. Halimun RT 003 RW 004, Desa Warudoyong, Kecamatan Cikalongkulon\n\n` +
+      `📍 Tempat       : Kp. LosAnggeles RT 003 RW 004, Desa Miami, Kecamatan KrajanBarat\n\n` +
       `Wassalamualaikum Warahmatullahi Wabarakatuh\n\n` +
-      `Terima Kasih\nHormat kami,\nALPI & NDAH`
+      `Terima Kasih\nHormat kami,\nROMEO & JULIET `
     : "";

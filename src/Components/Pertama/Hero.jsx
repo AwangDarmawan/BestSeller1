@@ -4,7 +4,7 @@ import Timer from "./Timer";
 
 export default function Hero() {
   return (
-    <section className="flex min-h-screen items-end justify-center pb-14">
+    <section id="home" className="flex min-h-screen items-end justify-center pb-14">
       <div className="text-center text-white">
         <p className="uppercase tracking-[0.35em] text-[9px] sm:text-[10px] md:text-xs lg:text-[10px] xl:text-xs font-space">
           The Wedding Of
