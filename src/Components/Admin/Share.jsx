@@ -23,7 +23,7 @@ export const generateShareText = (name, invitationLink) =>
       `Acara akan diselenggarakan pada:\n` +
       `🗓️ Hari/Tanggal : Minggu, 05 Juli 2026\n` +
       `⏰ Waktu        : 08.00 WIB – selesai\n` +
-      `📍 Tempat       : Kp. Halimun RT 003 RW 004, Desa Warudoyong, Kecamatan Cikalongkulon\n\n` +
+      `📍 Tempat        : Kp. Halimun RT 003 RW 004, Desa Warudoyong, Kecamatan Cikalongkulon\n\n` +
       `Wassalamualaikum Warahmatullahi Wabarakatuh\n\n` +
       `Terima Kasih\nHormat kami,\nALPI & NDAH`
     : "";
