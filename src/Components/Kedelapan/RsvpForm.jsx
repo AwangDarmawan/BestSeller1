@@ -57,7 +57,7 @@ export default function RsvpForm({PropfetchData}) {
   return (
     <form
       onSubmit={handleSubmit}
-      className="mx-auto mt-14 max-w-3xl space-y-6"
+      className="mx-auto mt-14 max-w-2xl space-y-6 "
     >
       {/* Nama */}
 

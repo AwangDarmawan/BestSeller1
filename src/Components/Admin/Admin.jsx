@@ -18,7 +18,7 @@ const Admin = () => {
   const shareText = generateShareText(submittedName, invitationLink);
 
   return (
-    <div className="min-h-screen flex flex-col items-center justify-center text-white p-6">
+    <div className="min-h-screen flex flex-col items-center justify-center text-red-500 p-6">
    
       {/* Form */}
       <Form
