@@ -60,6 +60,7 @@ export default function Cover() {
           <button
           data-aos="fade-up"
               onClick={() => {
+                   localStorage.setItem("playMusic", "true");
         navigate("/home");
       }}
             className="
